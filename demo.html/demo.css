@@ -1,0 +1,24 @@
+#Bai12 .ribbon{
+    background-color: red;
+    color: white;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    position: relative;
+    padding: 7px 0;
+    left: -5px;
+    top: 15px;
+    width: 120px;
+    background-color: #f53838;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#f53838), to(#e10808));
+    background-image: -webkit-linear-gradient(top, #f53838, #e10808);
+    background-image: -moz-linear-gradient(top, #f53838, #e10808);
+    background-image: -ms-linear-gradient(top, #f53838, #e10808);
+    background-image: -o-linear-gradient(top, #f53838, #e10808);
+    color: #fff;
+    -webkit-box-shadow: 0px 0px 3px rgba(0,0,0,0.3);
+    -moz-box-shadow: 0px 0px 3px rgba(0,0,0,0.3);
+    box-shadow: 0px 0px 3px rgba(0,0,0,0.3);
+
+}
